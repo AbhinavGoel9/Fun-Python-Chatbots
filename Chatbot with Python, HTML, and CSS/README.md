@@ -48,6 +48,5 @@ Project Structure:
 - Ensure you have a good understanding of Flask and HTML frameworks for successful deployment.
 - The Chatterbot library is used for generating responses. Familiarize yourself with its basics for better comprehension.
 
-Feel free to explore the code and adapt it based on your preferences. If you want to skip the basics and dive into the code, you can find the relevant code snippets for building and deploying the chatbot at the end of this README.
+Feel free to explore the code and adapt it based on your preferences. If you want to skip the basics and dive into the code.
 
-*Note: Please refer to the original code for accurate formatting, and ensure to adapt it according to your needs.*
