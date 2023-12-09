@@ -1,7 +1,6 @@
 # Rule-Based Chatbot with Python
 
-Learn how to build a simple rule-based chatbot in Python using the NLTK library.
-
+Building a simple rule-based chatbot in Python using NLTK library
 ## Instructions:
 
 1. Clone the repository:
